@@ -1,0 +1,29 @@
+.main {
+ /*   background-color: yellow; */
+    margin: auto;
+    padding: 0;
+    width: 80%;
+}
+.i {
+    colour : red;
+}
+.fa {
+    padding: 20px;
+    text-align: center;
+    font-size : 64px; 
+    text-decoration: none;
+}
+.fa-github{
+color: darkslategray;
+}
+.fa-linkedin{
+color: #007bb5;
+}
+.fa-envelope{
+    color:darkred;
+}
+.courses {
+    margin: auto;
+    padding :0;
+    width: 80%;
+}
