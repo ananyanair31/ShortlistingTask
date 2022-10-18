@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="utf-8" >
+        <link rel="icon" href="logo.webp" type="image/x-icon" >
+        <title>
+            About me
+        </title>
+    </head>
+    <body>
+        <header>
+        <h1> Hello, welcome to my website!</h1>
+        </header>
+        <body>
+            <p>
+                I am a second year ECE student!<br>
+                My topics of interests are:
+                <ol>
+                    <li>?</li>
+                    <li> cats!</li>
+                </ol>
+                            
+            </p>
+            <p> Navigation menu:</p>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html">My homepage</a>
+                    </li>
+                    <li>
+                        <a href="projects.html">My projects</a>
+                    </li>
+                    <li>
+                        <a href="courses.html">Techstacks </a>
+                    </li>
+                </ul>
+                <hr>
+            </nav>
+            <p>
+                <h3> Contact me:</h3>
+                       <img src="instalogo2.png" alt="Instagram logo" title="My instagram account">
+                       <img src="linlogo.png" alt="LinkedIn Logo" title="My LinkedIn profile">
+            </p>
+        </body>
+        <footer> 
+            <p> Thanks for visiting!</p>
+        </footer>
+    </body>
+</html>
